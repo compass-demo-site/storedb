@@ -1,5 +1,4 @@
 name: storedb
-id: "ari:cloud:compass:7d7a1354-b50b-4f1e-b409-1f3c509aea99:component/910c34fb-0e18-40c8-8568-c31a5cefb046/1e0b790f-2c67-409a-9b7c-3ea9ac1035df"
 description: Magnetic relational datastore.
 typeId: CLOUD_RESOURCE
 configVersion: 1
